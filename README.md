@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namratanimmi
+- 👋 Hi, I’m Namrata Nimmi
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on mini projects
