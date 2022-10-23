@@ -1,6 +1,6 @@
 ![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git-readme-1.png)
 
-![Snake Game](https://raw.githubusercontent.com/namratanimmi/namratanimmi/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/namratanimmi/namratanimmi/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
