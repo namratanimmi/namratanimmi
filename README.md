@@ -15,7 +15,7 @@
 
 ## 👧 About Me...
 
-- 🔗 I’m currently learning Front-end Development
+- 🔗 I’m currently learning Front-End Development
 - 👐 I’m looking to contribute to open source
 - 🥅 2022 Goals: Learn more about Development
 - ⚡ Fun fact: I love heels
