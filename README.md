@@ -1,11 +1,7 @@
 ![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git-readme-1.png)
 
 
-- 👋 Hi, I’m Namrata Nimmi
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me 
+
 
 <!---
 namratanimmi/namratanimmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
