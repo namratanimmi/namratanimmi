@@ -1,4 +1,4 @@
-![Namrata](https://github.com/namratanimmi/namratanimmi/Git-readme-1.png)
+![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git-readme-1.png)
 
 
 - 👋 Hi, I’m Namrata Nimmi
