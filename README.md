@@ -1,3 +1,6 @@
+## Visitors Count
+![VisitorCount](https://profile-counter.glitch.me/namratanimmi/count.svg)
+
 ![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git-readme-1.png)
 
 ## Contact Me
@@ -21,12 +24,14 @@
 
 
 ## 🤹 My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,python,figma,canva)](https://skillicons.dev)
 
 <br>
 
 
 ![Stat](https://github-readme-stats.vercel.app/api?username=namratanimmi&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+
+<br>
 ___
 
 ![Snake Game](https://raw.githubusercontent.com/namratanimmi/namratanimmi/output/github-contribution-grid-snake.svg)
