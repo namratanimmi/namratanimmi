@@ -1,4 +1,4 @@
-[Namrata](namratanimmi/git-readme-1.png)
+[Namrata](namratanimmi/Git-readme-1.png)
 
 
 - 👋 Hi, I’m Namrata Nimmi
