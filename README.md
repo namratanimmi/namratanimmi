@@ -1,3 +1,6 @@
+[Namrata](namratanimmi/git-readme-1.png)
+
+
 - 👋 Hi, I’m Namrata Nimmi
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning css
