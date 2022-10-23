@@ -1,7 +1,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/namratanimmi/count.svg)
 
-![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git_readme_cover.png)
+![Namrata](https://github.com/namratanimmi/namratanimmi/blob/main/Git_readme_cover-1.png)
 
 ## Contact Me
 
