@@ -24,7 +24,7 @@
 
 
 ## 🤹 My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,python,figma,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,java,figma)](https://skillicons.dev)
 
 <br>
 
