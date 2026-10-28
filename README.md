@@ -23,7 +23,7 @@
 
 
 ## 🤹 My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=sql,powerbi,excel,pandas,matplotlib,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,vscode)](https://skillicons.dev)
 
 <br>
 
