@@ -15,16 +15,15 @@
 
 ## 👧 About Me...
 
-- 🔗 I’m currently learning Front-End Development
-- 👐 I’m looking to contribute to open source
-- 🥅 2022 Goals: Learn more about Development
+- 🔗 Data Analyst | Business Analyst
+- 🥅 2027 Goals: Learn AI-ML 
 - ⚡ Fun fact: I love heels
 
 <br>
 
 
 ## 🤹 My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,python,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,powerbi,excel,pandas,matplotlib,python)](https://skillicons.dev)
 
 <br>
 
